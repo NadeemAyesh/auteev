@@ -712,6 +712,12 @@ a.sub-btn {
 .table-btns button.btn {
     color: #F4B919;
     font-size: 14px;
+    margin: 0 3px;
+}
+
+.table-btns a.btn i,
+.table-btns button.btn i {
+    vertical-align: middle;
 }
 /* .table thead th */
 
